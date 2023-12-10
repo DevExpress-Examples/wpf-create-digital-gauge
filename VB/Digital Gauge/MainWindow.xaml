@@ -28,12 +28,12 @@
                         <dxga:SymbolOptions SkewAngleX="5" SkewAngleY="5" />
                     </dxga:MatrixView8x14.Options>
                     <!--endregion #MatrixOptions-->
-                    <!--#region #MatrixAnimation-->
+                    <!--region #MatrixAnimation-->
                     <dxga:MatrixView8x14.Animation>
                         <dxga:CreepingLineAnimation RefreshTime="00:00:00.2000000"
                                                     Repeat="True" />
                     </dxga:MatrixView8x14.Animation>
-                    <!--#endregion #MatrixAnimation-->
+                    <!--endregion #MatrixAnimation-->
                 </dxga:MatrixView8x14>
             </dxga:DigitalGaugeControl.SymbolView>
         </dxga:DigitalGaugeControl>
