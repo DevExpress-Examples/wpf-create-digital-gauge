@@ -19,9 +19,9 @@ This example creates and customizes a [WPF Digital Gauge Control](https://docs.d
 ## Documentation
 
 * [Create a Digital Gauge](https://docs.devexpress.com/WPF/10664/controls-and-libraries/gauge-controls/getting-started/lesson-3-create-a-digital-gauge)
-* [How to Create a Linear Gauge](https://docs.devexpress.com/WPF/9801/controls-and-libraries/gauge-controls/getting-started/lesson-2-create-a-linear-gauge)
-* [How to Create a Circular Gauge](https://docs.devexpress.com/WPF/9800/controls-and-libraries/gauge-controls/getting-started/lesson-1-create-a-circular-gauge)
-* [How to Create a State Indicator](https://docs.devexpress.com/WPF/10665/controls-and-libraries/gauge-controls/getting-started/lesson-4-create-a-state-indicator)
+* [Create a Linear Gauge](https://docs.devexpress.com/WPF/9801/controls-and-libraries/gauge-controls/getting-started/lesson-2-create-a-linear-gauge)
+* [Create a Circular Gauge](https://docs.devexpress.com/WPF/9800/controls-and-libraries/gauge-controls/getting-started/lesson-1-create-a-circular-gauge)
+* [Create a State Indicator](https://docs.devexpress.com/WPF/10665/controls-and-libraries/gauge-controls/getting-started/lesson-4-create-a-state-indicator)
 
 
 ## Related Examples
