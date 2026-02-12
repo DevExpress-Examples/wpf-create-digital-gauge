@@ -32,7 +32,7 @@ This example creates and customizes a [WPF Digital Gauge Control](https://docs.d
 * [WPF Linear Gauge - Display Custom UI Elements](https://github.com/DevExpress-Examples/wpf-linear-gauge-display-custom-ui-elements)
 * [WPF Gauge - Create a State Indicator](https://github.com/DevExpress-Examples/wpf-gauge-create-state-indicator)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-create-digital-gauge&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-create-digital-gauge&~~~was_helpful=no)
 
